@@ -1,0 +1,3 @@
+sudo /opt/lampp/lampp start
+
+A 100-90
